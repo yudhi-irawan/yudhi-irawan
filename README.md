@@ -35,6 +35,10 @@ Initial created date : Dec 19, 2013<br>
 <i>	
 <a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
 </i>
+Disclaimer MCG link at:
+<i>	
+<a href="https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ">https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ</a>
+</i>  
 <br>
   
  <br>
