@@ -35,13 +35,12 @@ Initial created date : Dec 19, 2013<br>
 <i>	
 <a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
 </i>
-Disclaimer MCG link at:
+<br>Disclaimer MCG link at:
 <i>	
 <a href="https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ">https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ</a>
 </i>  
-<br>
-  
- <br>
+
+ 
 <span class="font-weight-bold">Donation and Support link</span>
 <br><span class="font-weight-bold">Ko-fi: </span>
 <i>	
@@ -53,6 +52,5 @@ Disclaimer MCG link at:
 Thank you very much if you consider supporting me,
 it helps keep things free to use for everyone
 
-<br><br>
 Please follow us for information about new releases<br>
 Thanks you for using this tool. 
