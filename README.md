@@ -1,6 +1,6 @@
-Introduction
+<h2>Introduction</h2>
 
-About me
+<h2>About me</h2>
 
 Hi, I'm Yudhi from Indonesia, i'm developing tools to make it easier to make software, especially software for web development using PHP.
 
@@ -18,7 +18,37 @@ I am sharing my knowledge to help make office life a little less annoying ;)
 
 Private message at Telegram:</span>
 <a href="https://t.me/yudhi_irawan">@yudhi_irawan</a>
-<br>
-
-<span class="font-weight-bold">Private activity feeds at Instagram:</span> 
+<br><span class="font-weight-bold">Private activity feeds at Instagram:</span> 
 <a href="https://www.instagram.com/iam.yudhi_irawan">@iam.yudhi_irawan</a>
+
+
+<h2>About Software</h2>
+
+<b>MCG - Massive CRUD Generator</b>
+
+<p>
+Created by Yudhi Irawan<br>
+Initial created date : Dec 19, 2013<br>
+
+
+<span class="font-weight-bold">Download</span> StartUp MCG link at:
+<i>	
+<a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
+</i>
+<br>
+  
+ <br>
+<span class="font-weight-bold">Donation and Support link</span>
+<br><span class="font-weight-bold">Ko-fi: </span>
+<i>	
+<a href="https://ko-fi.com/MassiveCrudGenerator">https://ko-fi.com/MassiveCrudGenerator</a>
+<br><span class="font-weight-bold">Trakteer: </span>
+<a href="https://trakteer.id/MassiveCrudGenerator">https://trakteer.id/MassiveCrudGenerator</a>
+</i>
+<br><br>
+Thank you very much if you consider supporting me,
+it helps keep things free to use for everyone
+
+<br><br>
+Please follow us for information about new releases<br>
+Thanks you for using this tool. 
