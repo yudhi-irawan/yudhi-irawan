@@ -35,11 +35,14 @@ Initial created date : Dec 19, 2013<br>
 <i>	
 <a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
 </i>
-<br>Disclaimer MCG link at:
+
+ <span class="font-weight-bold">Disclaimer MCG link</span>
+<br><span class="font-weight-bold">English: </span>
 <i>	
 <a href="https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ">https://ko-fi.com/post/004-Disclaimer-J3J4APUYZ</a>
-</i>  
-
+<br><span class="font-weight-bold">Indonesia: </span>
+<a href="https://trakteer.id/massivecrudgenerator/post/005-disclaimer-vl3dg#page-menu">https://trakteer.id/massivecrudgenerator/post/005-disclaimer-vl3dg#page-menu</a>
+</i>
  
 <span class="font-weight-bold">Donation and Support link</span>
 <br><span class="font-weight-bold">Ko-fi: </span>
