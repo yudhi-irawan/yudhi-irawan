@@ -55,6 +55,19 @@ Thank you very much if you consider supporting me,
 it helps keep things free to use for everyone
 
 Please follow us for information about new releases<br>
-Thanks you for using this tool. 
+
+<br>
+<h2>📫 About MCG - Massive CRUD Generator</h2>
+
+💞️💞️💞️ <span class="font-weight-bold">Documentation MCG link at:</span>
+<i>	
+<a href="https://yudhi-irawan.github.io/mcg-documentation/index.html">https://yudhi-irawan.github.io/mcg-documentation/index.html</a>
+</i>💞️💞️💞️
+<br><br>
+
+ 
+ 
+ 
+ Thanks you for using this tool. 
 
  👋 👀 🌱 💞️ 📫 
