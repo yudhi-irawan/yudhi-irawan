@@ -10,7 +10,7 @@ This program is a kind of tool, which is to speed up the creation of CRUD script
 
 This program is called MCG, which stands for Massive Crud Generator. Program is my original. Although there may be similarities with similar programs.
 
-Programs are in the form of EXE files and some are free👋 and some are registered. Whether it's free or registered, the content is the same. What is registered is a form of your support and as our encouragement. You can provide support/support/saweran/trakteer as our encouragement to produce new releases, with no strings attached / certain conditions.
+Programs are in the form of EXE files and some are free👋 and some are registered. Whether it's free or registered, the content is the same. What is registered is a form of your support and as our encouragement. You can provide support/ko-fi/trakteer as our encouragement to produce new releases, with no strings attached / certain conditions.
 
 The target of this program is specifically for colleagues who are still learning script programming such as PHP, although it is possible to colleagues who are already proficient, or also for colleagues who want to try
 
