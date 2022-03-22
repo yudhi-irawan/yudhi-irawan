@@ -29,7 +29,7 @@ Private message at Telegram:</span>
 Created by Yudhi Irawan<br>
 Initial created date : Dec 19, 2013<br>
 <br><br>
-💞️💞️💞️ <span class="font-weight-bold">Download</span> StartUp MCG link at:
+💞️💞️💞️ <span class="font-weight-bold">Download</span> MCG Application link at:
 <i>	
 <a href="https://t.me/MCGFreeVersion">https://t.me/MCGFreeVersion</a>
 </i>💞️💞️💞️
