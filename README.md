@@ -18,5 +18,8 @@
 <a href="https://yudhi-irawan.github.io/mcg-documentation/download.html">https://yudhi-irawan.github.io/mcg-documentation/download.html</a>
 </i>💞️💞️💞️
 <br><br>
+ 
+ 
+ Thanks you for using this tool. 
 
- 👋 👀 🌱 💞️ 📫 
+ 👋 👀 🌱 💞️ 📫
