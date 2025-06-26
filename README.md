@@ -6,7 +6,7 @@
 <br>
 <br><span class="font-weight-bold">English: </span>
 <i>	
-<a href="https://yudhi-irawan.github.io/mcg-documentation/index.html">https://yudhi-irawan.github.io/mcg-documentation/index.html</a>
+<a href="https://yudhi-irawan.github.io/200-mcg-documentation/index.html">https://yudhi-irawan.github.io/200-mcg-documentation/index.html</a>
 <br>🌱🌱🌱<br>
 <span class="font-weight-bold">Indonesia: </span>
 <a href="https://yudhi-irawan.github.io/mcg-documentation/index-id.html">https://yudhi-irawan.github.io/mcg-documentation/index-id.html</a>
