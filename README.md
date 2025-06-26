@@ -9,13 +9,13 @@
 <a href="https://yudhi-irawan.github.io/200-mcg-documentation/index.html">https://yudhi-irawan.github.io/200-mcg-documentation/index.html</a>
 <br>🌱🌱🌱<br>
 <span class="font-weight-bold">Indonesia: </span>
-<a href="https://yudhi-irawan.github.io/mcg-documentation/index-id.html">https://yudhi-irawan.github.io/mcg-documentation/index-id.html</a>
+<a href="https://yudhi-irawan.github.io/200-mcg-documentation/index-id.html">https://yudhi-irawan.github.io/200-mcg-documentation/index-id.html</a>
 </i>
 <br><br>
 
 💞️💞️💞️ <span class="font-weight-bold">Download</span> MCG Application link at:
 <i>	
-<a href="https://yudhi-irawan.github.io/mcg-documentation/download.html">https://yudhi-irawan.github.io/mcg-documentation/download.html</a>
+<a href="https://yudhi-irawan.github.io/200-mcg-documentation/download.html">https://yudhi-irawan.github.io/200-mcg-documentation/download.html</a>
 </i>💞️💞️💞️
 <br><br>
  
